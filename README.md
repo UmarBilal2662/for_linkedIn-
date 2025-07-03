@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 🎨 Today's Creative Work – July 3, 2025
 
@@ -32,8 +30,7 @@ I’m a passionate **graphic designer & video editor** who loves creating conten
 
 * [LinkedIn – Umar Bilal](https://www.linkedin.com/in/umar-bilal-ab13a9344)
 
-`````
+```
 
 ---
-
-
+```
